@@ -10,10 +10,6 @@ This Flutter application is a mobile book library management system. It allows u
 - Lazy loading for efficient loading of large book lists
 - Responsive design for different screen sizes
 
-## Screenshots
-
-Include screenshots or GIFs of your app in action here.
-
 ## Getting Started
 
 To run this application locally, follow these steps:
