@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "241715499127",
+    "firebase_url": "https://booklibrary-flutterflow-dev-default-rtdb.firebaseio.com",
+    "project_id": "booklibrary-flutterflow-dev",
+    "storage_bucket": "booklibrary-flutterflow-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241715499127:android:49ddb514e52d035349f672",
+        "android_client_info": {
+          "package_name": "com.example.flutter_booklibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKL0ub9goKs-5uEm-OOmIo_of4Dlzhh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241715499127:android:9f454bdb1332e97149f672",
+        "android_client_info": {
+          "package_name": "com.ibrahim.booklibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKL0ub9goKs-5uEm-OOmIo_of4Dlzhh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
